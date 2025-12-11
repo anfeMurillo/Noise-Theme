@@ -1,9 +1,9 @@
 {
-    "name": "noise-zx",
-    "displayName": "Noise ZX",
-    "description": "Minimalistic looking based on Material Theme",
+    "name": "noise-theme",
+    "displayName": "NOISE theme",
+    "description": "Minimalistic dark theme with 14 vibrant variants",
     "icon": "images/icon.png",
-    "version": "2.0.1",
+    "version": "2.1.1",
     "publisher": "AndrsFelipeMurillo",
     "engines": {
         "vscode": "^1.37.0"

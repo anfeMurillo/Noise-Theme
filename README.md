@@ -1,5 +1,5 @@
-# Noise ZX
-Noise ZX is a dark material-like theme available in 14 vibrant color variants.
+# NOISE theme
+NOISE theme is a dark material-inspired collection available in 14 vibrant color variants.
 
 ## Color Variants
 - **Noise Red** - Classic red tones
@@ -19,7 +19,7 @@ Noise ZX is a dark material-like theme available in 14 vibrant color variants.
 
 ## Installation
  1. Open Extensions on the sidebar
- 2. Search for "**Noise ZX**"
+ 2. Search for "**NOISE theme**"
  3. Install it
  4. Reload the editor
  5. Press ⌘K + ⌘T (or Ctrl+K + Ctrl+T on Windows/Linux)

@@ -2,9 +2,9 @@
 
 ## What's in the folder
 
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/Material Aurora X-color-theme.json` - the color theme definition file.
+* This folder contains all of the files necessary for your NOISE theme extension.
+* `package.json` - manifest that points VS Code at the NOISE theme variants.
+* The `themes` folder - collection of NOISE theme color definitions.
 
 ## Get up and running straight away
 
