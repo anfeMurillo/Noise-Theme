@@ -27,6 +27,11 @@
                 "label": "Noise Green",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Noise-Green-color-theme.json"
+            },
+            {
+                "label": "Noise Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Orange-color-theme.json"
             }
         ]
     },
