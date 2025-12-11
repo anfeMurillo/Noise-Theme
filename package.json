@@ -32,6 +32,11 @@
                 "label": "Noise Brown",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Noise-Brown-color-theme.json"
+            },
+            {
+                "label": "Noise Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Purple-color-theme.json"
             }
         ]
     },
