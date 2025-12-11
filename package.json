@@ -1,6 +1,6 @@
 {
-    "name": "aurora-x",
-    "displayName": "Aurora X",
+    "name": "noise-zx",
+    "displayName": "Noise ZX",
     "description": "Minimalistic looking based on Material Theme",
     "icon": "images/icon.png",
     "version": "2.0.1",
@@ -14,9 +14,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Aurora X",
+                "label": "Noise Red",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Aurora X-color-theme.json"
+                "path": "./themes/Noise-Red-color-theme.json"
+            },
+            {
+                "label": "Noise Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Blue-color-theme.json"
             }
         ]
     },
