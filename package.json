@@ -52,6 +52,36 @@
                 "label": "Noise Pink",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Noise-Pink-color-theme.json"
+            },
+            {
+                "label": "Noise Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Orange-color-theme.json"
+            },
+            {
+                "label": "Noise Magenta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Magenta-color-theme.json"
+            },
+            {
+                "label": "Noise Teal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Teal-color-theme.json"
+            },
+            {
+                "label": "Noise Indigo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Indigo-color-theme.json"
+            },
+            {
+                "label": "Noise Lime",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Lime-color-theme.json"
+            },
+            {
+                "label": "Noise Coral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Coral-color-theme.json"
             }
         ]
     },
