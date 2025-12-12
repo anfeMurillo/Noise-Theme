@@ -124,6 +124,7 @@
     "sideBarSectionHeader.foreground": "#86FF86",
 
     "statusBar.background": "#B3FFB3",
+    "statusBar.noFolderBackground": "#B3FFB3",
     "statusBar.foreground": "#070F07",
     "statusBar.debuggingBackground": "#B3FFB3",
 
